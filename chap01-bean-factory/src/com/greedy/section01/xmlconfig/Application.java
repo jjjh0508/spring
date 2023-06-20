@@ -15,7 +15,7 @@ public class Application {
 	
 		ApplicationContext context = 
 				new GenericXmlApplicationContext("com/greedy/section01/xmlconfig/spring-context.xml");
-
+		
 		/* MemberDTO 클래스를 만들어서 BeanFactory에 설정 정보를 이용하여 인스턴스를 생성하고 사용하는 예제를 만들었다.
 		 * 
 		 */
