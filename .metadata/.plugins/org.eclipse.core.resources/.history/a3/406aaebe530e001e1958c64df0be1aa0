@@ -1,0 +1,11 @@
+package com.greedy.section01.xmlconfig;
+
+public class Appliction {
+
+	public static void main(String[] args) {
+		
+		ApplicationContext contet = new GenericXmlApplicationContext("com/greedy/section01/");
+		
+	}
+
+}

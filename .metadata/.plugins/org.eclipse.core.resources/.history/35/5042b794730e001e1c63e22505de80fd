@@ -1,0 +1,16 @@
+package com.greedy.section01.javaconfig;
+
+public class MemberDAOImpl implements MemberDAO {
+
+	@Override
+	public MemberDTO selectMember(int sequence) {
+		// TODO Auto-generated method stub
+		return new MemberDTO();
+	}
+
+	@Override
+	public boolean insertMember(MemberDTO member) {
+		return false;
+	}
+	
+}

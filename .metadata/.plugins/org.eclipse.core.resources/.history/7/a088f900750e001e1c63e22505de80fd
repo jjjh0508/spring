@@ -1,0 +1,7 @@
+package com.greedy.section01.javaconfig.config;
+
+import org.springframework.context.annotation.Configuration;
+
+public class ContextConfiguration {
+	
+}
