@@ -11,7 +11,7 @@ import com.greedy.section01.constinjection.javaconfig.RandomNumberGenerator;
 @ComponentScan(basePackages = "com.greedy.section01.constinjection.javaconfig")
 public class ContextConfiguration {
 	
-	@Bean
+	@Bean //(메소드)
 	public RandomGenerator randomGenerator() throws Exception {
 		return new RandomNumberGenerator(1,10);
 	}
