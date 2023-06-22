@@ -1,4 +1,4 @@
-!SESSION 2023-06-21 09:31:52.074 -----------------------------------------------
+!SESSION 2023-06-22 09:23:38.470 -----------------------------------------------
 eclipse.buildId=4.14.0.I20191210-0610
 java.version=11.0.15
 java.vendor=ojdkbuild
@@ -7,9 +7,9 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 This is a continuation of log file C:\DEV\spring\.metadata\.bak_2.log
-Created Time: 2023-06-21 17:13:22.027
+Created Time: 2023-06-22 15:11:21.635
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.028
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.635
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -47,7 +47,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.036
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.637
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -85,7 +85,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.040
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.639
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -123,7 +123,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.046
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.646
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -161,7 +161,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.054
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.654
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -199,7 +199,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.061
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.661
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -237,7 +237,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.069
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.668
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -275,7 +275,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.076
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.678
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -313,7 +313,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.083
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.684
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -351,7 +351,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.091
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.691
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -389,7 +389,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.098
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.698
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -427,7 +427,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.106
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:11:21.706
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -465,7 +465,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.113
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.444
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -503,7 +503,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.121
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.449
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -541,7 +541,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:22.128
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.457
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -579,7 +579,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.032
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.465
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -617,7 +617,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.037
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.471
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -655,7 +655,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.044
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.478
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -693,7 +693,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.051
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.486
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -731,7 +731,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.069
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.495
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -769,7 +769,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.070
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.503
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -807,7 +807,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.074
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.509
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -845,7 +845,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.082
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.517
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -883,7 +883,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.090
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.563
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -921,7 +921,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.097
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.581
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -959,7 +959,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.108
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.596
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -997,7 +997,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.111
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.599
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1035,7 +1035,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.119
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.606
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1073,7 +1073,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.125
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.614
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1111,7 +1111,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.133
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.675
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1149,7 +1149,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.141
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:12:01.681
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1187,55 +1187,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.149
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:13:20.126
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
-	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
-	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
-	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
-	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3988)
-	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3587)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
-	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
-	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:660)
-	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
-	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
-	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
-	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
-	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
-	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
-	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
-	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
-	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
-
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.156
-!MESSAGE Unhandled event loop exception
-!STACK 0
-java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
-	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1263,7 +1225,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.164
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.557
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1301,7 +1263,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.171
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.564
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1339,7 +1301,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.179
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.571
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1377,7 +1339,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.186
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.578
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1415,7 +1377,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.194
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.594
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1453,7 +1415,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.201
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.600
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1491,7 +1453,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.209
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.608
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1529,7 +1491,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.215
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.639
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1567,7 +1529,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.231
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.647
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1605,7 +1567,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.232
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:14:09.654
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1643,17 +1605,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.238
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:15:59.558
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1681,17 +1643,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:23.246
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:16:15.907
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1719,17 +1681,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.055
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:17:42.909
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1757,17 +1719,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.062
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:10.851
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1795,7 +1757,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.069
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.047
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1804,8 +1766,8 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
 	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
 	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseDown(HyperlinkManager.java:408)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:196)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -1833,7 +1795,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.076
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.377
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1871,7 +1833,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.084
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.384
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1909,7 +1871,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.092
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.391
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1947,7 +1909,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.100
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.399
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -1985,7 +1947,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.134
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.406
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2023,7 +1985,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.136
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.413
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2061,7 +2023,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.143
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.422
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2099,7 +2061,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.151
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.429
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2137,7 +2099,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.158
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.437
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2175,7 +2137,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.166
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:21.444
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2213,7 +2175,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.173
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:22.880
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2251,7 +2213,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.181
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:22.885
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2289,7 +2251,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.188
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:20:22.892
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2327,17 +2289,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.196
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:23:02.474
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -2365,7 +2327,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.204
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.227
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2403,7 +2365,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.211
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.229
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2441,7 +2403,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.219
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.243
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2479,7 +2441,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.226
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.244
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2517,7 +2479,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.234
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.247
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2555,7 +2517,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.242
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.255
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2593,7 +2555,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.249
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.263
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2631,7 +2593,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.256
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.270
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2669,7 +2631,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:34.264
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.278
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2707,7 +2669,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:35.166
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.285
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2745,7 +2707,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:35.173
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.292
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2783,7 +2745,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.308
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.300
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2821,7 +2783,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.312
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.306
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2859,7 +2821,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.318
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.315
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2897,7 +2859,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.327
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.321
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2935,7 +2897,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.334
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.330
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -2973,7 +2935,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.342
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.337
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3011,7 +2973,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.349
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.345
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3049,7 +3011,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.357
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.352
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3087,7 +3049,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.363
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.360
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3125,7 +3087,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.371
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.367
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3163,7 +3125,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.378
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.374
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3201,7 +3163,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.386
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.382
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3239,7 +3201,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.394
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.390
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3277,7 +3239,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.401
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.398
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3315,7 +3277,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.408
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.405
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3353,7 +3315,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.422
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.413
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3391,7 +3353,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.424
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.419
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3429,7 +3391,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.439
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:25.427
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3467,7 +3429,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.440
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.705
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3505,7 +3467,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.446
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.712
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3543,7 +3505,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.454
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.728
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3581,7 +3543,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.461
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.735
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3619,7 +3581,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.469
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.743
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3657,7 +3619,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.476
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.743
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3695,7 +3657,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.484
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.750
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3733,7 +3695,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.492
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.757
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3771,7 +3733,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.499
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.764
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3809,7 +3771,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.506
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.773
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3847,7 +3809,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.514
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.779
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3885,7 +3847,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:36.522
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:34.787
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3923,7 +3885,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.828
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.774
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3961,7 +3923,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.828
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.803
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -3999,7 +3961,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.835
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.810
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4037,7 +3999,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.845
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.817
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4075,7 +4037,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.849
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.825
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4113,7 +4075,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.856
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.832
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4151,7 +4113,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.864
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.839
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4189,7 +4151,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.872
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.847
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4227,7 +4189,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.879
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.854
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4265,7 +4227,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.887
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.862
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4303,7 +4265,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.894
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.870
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4341,7 +4303,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.901
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.878
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4379,7 +4341,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.909
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.884
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4417,7 +4379,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.916
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:37.892
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4455,7 +4417,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.923
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.091
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4493,7 +4455,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.931
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.095
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4531,7 +4493,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.939
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.127
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4569,7 +4531,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.946
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.128
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4607,7 +4569,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.954
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.133
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4645,7 +4607,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.961
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.148
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4683,7 +4645,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.969
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.149
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4721,7 +4683,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.976
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.170
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4759,7 +4721,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:46.984
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.177
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4797,7 +4759,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.006
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.227
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4835,7 +4797,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.924
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.307
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4873,7 +4835,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.942
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.312
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4911,7 +4873,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.943
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.319
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4949,7 +4911,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.944
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.327
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -4987,7 +4949,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.951
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:24:38.334
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5025,17 +4987,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.958
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:29:04.804
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -5063,17 +5025,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.966
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:31:14.646
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -5101,7 +5063,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.974
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.071
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5139,7 +5101,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.981
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.085
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5177,7 +5139,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.989
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.090
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5215,7 +5177,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:47.997
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.096
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5253,7 +5215,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.004
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.129
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5291,7 +5253,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.012
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.160
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5329,7 +5291,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.019
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.161
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5367,7 +5329,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.027
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.164
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5405,7 +5367,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.034
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.166
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5443,7 +5405,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.892
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.171
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5481,7 +5443,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.897
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.178
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5519,7 +5481,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.904
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:41.186
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5557,7 +5519,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.913
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.304
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5595,7 +5557,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.920
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.311
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5633,7 +5595,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.928
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.319
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5671,7 +5633,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.934
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.326
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5709,7 +5671,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.941
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.334
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5747,7 +5709,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.949
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.341
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5785,7 +5747,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.956
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.348
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5823,7 +5785,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.964
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.356
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5861,7 +5823,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.971
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:45.364
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5899,7 +5861,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.979
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.638
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5937,7 +5899,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.986
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.644
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -5975,7 +5937,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:48.994
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.651
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6013,7 +5975,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:49.002
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.665
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6051,7 +6013,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:49.010
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.667
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6089,7 +6051,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:49.016
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.674
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6127,7 +6089,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:49.024
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.682
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6165,7 +6127,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.054
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:56.977
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6203,7 +6165,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.057
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:57.014
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6241,7 +6203,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.064
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.007
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6279,7 +6241,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.071
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.015
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6317,7 +6279,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.079
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.022
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6355,7 +6317,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.086
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.037
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6393,7 +6355,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.101
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.045
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6431,7 +6393,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:13:57.102
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.045
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6469,7 +6431,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:03.671
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.051
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6507,7 +6469,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:03.679
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.058
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6545,7 +6507,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:03.686
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.066
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6583,7 +6545,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.272
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.074
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6621,7 +6583,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.278
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.097
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6659,7 +6621,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.286
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:33:59.104
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6697,7 +6659,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.293
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.135
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6735,7 +6697,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.301
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.310
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6773,7 +6735,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.309
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.315
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6811,7 +6773,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.317
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.322
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6849,7 +6811,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.324
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.330
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6887,7 +6849,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.332
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.337
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6925,7 +6887,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.339
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.344
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -6963,7 +6925,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.355
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.351
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7001,7 +6963,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.356
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:34:53.359
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7039,7 +7001,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:04.361
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.685
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7077,7 +7039,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.789
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.697
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7115,7 +7077,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.795
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.704
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7153,7 +7115,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.802
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.712
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7191,7 +7153,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.809
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.720
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7229,7 +7191,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.839
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.726
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7267,7 +7229,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.839
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.734
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7305,7 +7267,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.861
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.741
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7343,7 +7305,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.869
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.749
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7381,7 +7343,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.876
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.759
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7419,7 +7381,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.884
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.763
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7457,7 +7419,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.891
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.772
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7495,7 +7457,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.898
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.778
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7533,7 +7495,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.906
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.786
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7571,7 +7533,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.913
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.801
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7609,7 +7571,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.920
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.802
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7647,7 +7609,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.928
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.808
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7685,7 +7647,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.937
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.816
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7723,7 +7685,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.944
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.824
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7761,7 +7723,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.951
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:08.831
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7799,7 +7761,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:05.959
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:09.181
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7837,7 +7799,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.852
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:09.241
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7875,7 +7837,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.858
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:09.281
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7913,7 +7875,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.866
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:09.289
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7951,7 +7913,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.873
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:35:09.297
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -7989,17 +7951,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.881
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:36:39.032
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -8027,7 +7989,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.889
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.410
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8065,7 +8027,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.896
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.424
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8103,7 +8065,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.904
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.447
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8141,7 +8103,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.911
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.449
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8179,7 +8141,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.919
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.482
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8217,7 +8179,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.926
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.489
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8255,7 +8217,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.934
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.497
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8293,7 +8255,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.941
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.504
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8331,7 +8293,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.948
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:01.511
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8369,7 +8331,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.956
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:03.746
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8407,7 +8369,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.964
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:03.754
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8445,7 +8407,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.971
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:03.761
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8483,7 +8445,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.978
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.689
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8521,7 +8483,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.986
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.696
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8559,7 +8521,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:06.994
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.704
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8597,7 +8559,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.885
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.711
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8635,7 +8597,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.892
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.718
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8673,7 +8635,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.898
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.726
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8711,7 +8673,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.906
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.733
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8749,7 +8711,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.913
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.741
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8787,7 +8749,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.921
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.748
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8825,7 +8787,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.929
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.755
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8863,7 +8825,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.937
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.763
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8901,7 +8863,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.944
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:11.771
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8939,7 +8901,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.951
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.808
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -8977,7 +8939,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.959
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.815
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9015,7 +8977,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.966
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.822
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9053,7 +9015,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.974
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.830
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9091,7 +9053,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.989
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.897
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9129,7 +9091,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.990
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:18.904
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9167,7 +9129,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:08.996
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:49.241
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9205,7 +9167,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.004
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.539
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9243,7 +9205,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.012
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.546
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9281,7 +9243,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.019
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.555
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9319,7 +9281,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.027
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.561
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9357,7 +9319,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.034
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.569
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9395,7 +9357,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.042
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.576
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9433,7 +9395,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:09.049
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.584
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9471,7 +9433,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:18.402
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.591
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9509,7 +9471,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:18.409
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.598
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9547,7 +9509,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:18.416
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.606
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9585,7 +9547,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:18.424
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:53.614
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9623,7 +9585,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:18.432
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:54.193
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9661,7 +9623,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.190
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:54.200
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9699,7 +9661,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.202
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:37:54.206
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9737,7 +9699,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.209
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:11.938
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9775,7 +9737,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.217
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:11.973
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9813,7 +9775,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.225
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.051
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9851,7 +9813,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.232
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.057
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9889,7 +9851,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.240
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.064
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9927,7 +9889,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.247
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.072
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -9965,7 +9927,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.254
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.080
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10003,7 +9965,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.261
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.093
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10041,7 +10003,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.269
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.094
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10079,7 +10041,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.276
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:12.101
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10117,7 +10079,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.284
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.109
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10155,7 +10117,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.292
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.114
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10193,7 +10155,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.299
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.122
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10231,7 +10193,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.314
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.130
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10269,7 +10231,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.321
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.137
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10307,7 +10269,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.329
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.236
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10345,7 +10307,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.336
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.249
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10383,7 +10345,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.344
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.250
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10421,7 +10383,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.351
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.257
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10459,7 +10421,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.358
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.273
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10497,7 +10459,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.366
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.280
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10535,7 +10497,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.374
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.292
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10573,7 +10535,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.381
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.294
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10611,7 +10573,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.389
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.301
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10649,7 +10611,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:23.396
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.309
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10687,7 +10649,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.335
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.316
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10725,7 +10687,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.342
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.324
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10763,7 +10725,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.349
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.332
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10801,7 +10763,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.357
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.346
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10839,7 +10801,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.364
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.353
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10877,7 +10839,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.372
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.361
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10915,7 +10877,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.379
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.376
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10953,7 +10915,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.386
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.383
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -10991,7 +10953,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.409
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.439
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11029,7 +10991,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.431
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.445
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11067,7 +11029,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.438
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.468
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11105,7 +11067,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.447
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.482
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11143,7 +11105,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.454
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.504
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11181,17 +11143,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.461
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:38:16.937
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11219,17 +11181,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.469
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:40:22.512
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11257,17 +11219,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.477
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:41:44.299
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11295,17 +11257,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.484
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:42:39.379
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11333,7 +11295,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.492
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.942
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11371,7 +11333,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.500
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.947
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11409,7 +11371,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.507
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.955
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11447,7 +11409,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:24.514
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.962
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11485,7 +11447,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.158
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.977
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11523,7 +11485,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.164
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:13.984
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11561,7 +11523,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.171
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.366
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11599,7 +11561,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.179
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.373
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11637,7 +11599,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.186
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.377
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11675,7 +11637,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.196
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.384
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11713,7 +11675,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.201
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.392
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11751,7 +11713,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.208
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:16.400
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -11789,17 +11751,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.216
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:43:56.451
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11827,17 +11789,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.224
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:45:03.429
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11865,17 +11827,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.232
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:47:12.991
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11903,17 +11865,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.238
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:52:12.426
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11941,17 +11903,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.246
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:53:21.518
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -11979,17 +11941,17 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.254
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:21.027
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.jdt.internal.ui.text.JavaWordFinder.findWord(JavaWordFinder.java:39)
-	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:98)
-	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
-	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
-	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverRegion(AbstractJavaEditorTextHover.java:97)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverRegion(JavaEditorTextHoverProxy.java:65)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:142)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4175)
 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
@@ -12017,7 +11979,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.260
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.893
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12055,7 +12017,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.269
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.896
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12093,7 +12055,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.276
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.903
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12131,7 +12093,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.283
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.910
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12169,7 +12131,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:26.291
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.917
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12207,7 +12169,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:34.171
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.925
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12245,7 +12207,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.561
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:40.933
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12283,7 +12245,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.565
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:51.762
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12321,7 +12283,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.572
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:57.707
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12359,7 +12321,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.580
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:57.718
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12397,7 +12359,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.587
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:57.725
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12435,7 +12397,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.595
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:57.748
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12473,7 +12435,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.601
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:54:57.770
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12511,7 +12473,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:43.609
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:01.977
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12549,7 +12511,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:44.300
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:01.986
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12587,7 +12549,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:44.308
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:01.993
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12625,7 +12587,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:44.314
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:02.002
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12663,7 +12625,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:44.321
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:02.008
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12701,7 +12663,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:44.329
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:02.015
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12739,7 +12701,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:46.399
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:04.441
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12777,7 +12739,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:46.407
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:04.454
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12815,7 +12777,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:46.414
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:04.477
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
@@ -12853,7 +12815,7 @@ java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 
-!ENTRY org.eclipse.ui 4 0 2023-06-21 17:14:46.422
+!ENTRY org.eclipse.ui 4 0 2023-06-22 15:55:04.507
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'boolean com.ibm.icu.text.UTF16.isSurrogate(char)'
